@@ -31,6 +31,7 @@
 .pc-logo .logo{height: 70px;padding: 10px 0}
 .pc-logo .appname{position: absolute; left: 80px; top: 15px; font-size: 12px; letter-spacing: 3px;font-size: 28px;line-height: 32px}
 .pc-logo .version{position: absolute; left: 80px; top: 55px; font-size: 14px; letter-spacing: 3px;}
+/*.pc-logo .date{position: absolute; left: 80px; top: 85px; font-size: 14px; letter-spacing: 3px;}*/
 .pc-btns{ margin-top: 40px; font-size: 0;}
 .pc-btns .btn{ display: inline-block; width: 172px; height: 48px; line-height: 48px; font-size: 16px; margin-right: 16px; border-radius: 30px; position: relative; overflow: hidden; transition:all 0.2s; -webkit-transition:all 0.4s; -moz-transition:all 0.4s;}
 .pc-btns .btn:hover{ background-color: rgba(255,255,255,.3);}

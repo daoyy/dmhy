@@ -20,7 +20,13 @@ em,i{font-style:normal;font-weight:normal;}
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 .dh-row,
 .clearfix{zoom:1;}
-
+#update{
+    color: #FFF;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+}
 /*“\5b8b\4f53″ 就是 “宋体”。用 unicode 表示，不用 SimSun, 是因为 Firefox 的某些版本和 Opera 不支持 SimSun 的写法。避免产生乱码，对页面造成影响。*/
 .fontlh{font:12px/1.5 tahoma,arial,\5b8b\4f53;}
 .fontNum{font:Arial,SimSun;}
